@@ -42,10 +42,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3RGb3VuZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HF/OneDrive/Desktop/ASP.NET/EarlAPI/Components/Pages/Skill.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTa2lsbC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/HF/OneDrive/Desktop/ASP.NET/EarlAPI/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -69,3 +65,7 @@ build_metadata.AdditionalFiles.CssScope = b-1uztjdaz8y
 [C:/Users/HF/OneDrive/Desktop/ASP.NET/EarlAPI/Components/Layout/ReconnectModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUmVjb25uZWN0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-5d9rutz491
+
+[C:/Users/HF/OneDrive/Desktop/ASP.NET/EarlAPI/Components/Pages/Skill.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTa2lsbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-urv5tlfts9

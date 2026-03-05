@@ -1,0 +1,27 @@
+/*This is the style for the Skill page. Gikapoy nako HAHAHA */
+h1[b-urv5tlfts9] {
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+ul[b-urv5tlfts9] {
+    list-style-type: square; 
+    max-width: 200px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+li[b-urv5tlfts9] {
+    font-size: 18px;
+    padding: 5px 0;
+    color: white;
+    transition: transform 0.2s;
+}
+
+li:hover[b-urv5tlfts9] {
+    transform: scale(1.05);
+    color: #e251ff;        
+    cursor: pointer;
+}

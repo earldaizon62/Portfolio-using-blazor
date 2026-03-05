@@ -23,7 +23,6 @@ C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\scopedcss\Compone
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\scopedcss\bundle\EarlApi.styles.css
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\scopedcss\projectbundle\EarlApi.bundle.scp.css
-C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\compressed\0sovbjhrgw-{0}-khy4lop6wu-khy4lop6wu.gz
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\compressed\x10k29g8qm-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\compressed\djgmeblg3r-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\compressed\xwt99wftzv-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -71,8 +70,6 @@ C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\compressed\c3tdca
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\compressed\8h4j6kd67v-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\compressed\6o76s2anba-{0}-ax6tuj8tun-ax6tuj8tun.gz
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\compressed\tb3yln3ghj-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
-C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\compressed\517a97b0x6-{0}-nwv8pj1sze-nwv8pj1sze.gz
-C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\compressed\7bryk9feu7-{0}-nwv8pj1sze-nwv8pj1sze.gz
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\staticwebassets.development.json
@@ -84,3 +81,7 @@ C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\EarlApi.pdb
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\EarlApi.genruntimeconfig.cache
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\ref\EarlApi.dll
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\EarlApi.sourcelink.json
+C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\scopedcss\Components\Pages\Skill.razor.rz.scp.css
+C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\compressed\0sovbjhrgw-{0}-9dnc5bsj3r-9dnc5bsj3r.gz
+C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\compressed\517a97b0x6-{0}-mdwsekqb2a-mdwsekqb2a.gz
+C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\compressed\7bryk9feu7-{0}-mdwsekqb2a-mdwsekqb2a.gz
