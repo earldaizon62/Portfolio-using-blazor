@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EarlApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8d920c5e615f155e3ca4bcaad38cf606b8d8b52")]
 [assembly: System.Reflection.AssemblyProductAttribute("EarlApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EarlApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

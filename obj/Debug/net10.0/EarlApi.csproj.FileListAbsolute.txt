@@ -83,3 +83,4 @@ C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\refint\EarlApi.dl
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\EarlApi.pdb
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\EarlApi.genruntimeconfig.cache
 C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\ref\EarlApi.dll
+C:\Users\HF\OneDrive\Desktop\ASP.NET\EarlAPI\obj\Debug\net10.0\EarlApi.sourcelink.json
